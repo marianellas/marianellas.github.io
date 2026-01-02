@@ -70,7 +70,7 @@ const AboutSection = () => {
               diligence to optimizing data flows in capital markets. At
               <a href="https://permanence.ai/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline"> Permanence AI</a>, I work on automating code maintenance for software
               engineering teams by producing remediations for SCA and SAST
-              vulnerabilities. This includes integrating with static and dependency-based security scanners to automatically generate secure, review-ready code fixes that reduce vulnerability resolution time and improve codebase reliability.
+              vulnerabilities.
             </p>
           </div>
         </div>

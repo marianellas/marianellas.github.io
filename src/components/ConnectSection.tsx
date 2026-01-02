@@ -1,4 +1,4 @@
-import { Linkedin, Github, FileText } from "lucide-react";
+import { Linkedin, Github, FileText, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 interface SocialLink {
@@ -19,9 +19,9 @@ const socialLinks: SocialLink[] = [
     href: "https://github.com/marianellas",
   },
   {
-    icon: <FileText className="w-5 h-5" />,
-    label: "Resume",
-    href: "#",
+    icon: <Mail className="w-5 h-5" />,
+    label: "Email",
+    href: "mailto:se.marianella@gmail.com",
   },
 ];
 
@@ -37,7 +37,7 @@ const ConnectSection = () => {
 
         <p className="mt-8 text-muted-foreground font-sans max-w-lg mx-auto">
           I'm always happy to connect with fellow engineers, researchers, and
-          founders. Feel free to reach out!
+          founders. Feel free to reach out at se[dot]marianella[at]gmail[dot]com
         </p>
 
         {/* Social Links */}
