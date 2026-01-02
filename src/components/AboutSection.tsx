@@ -65,12 +65,12 @@ const AboutSection = () => {
             </p>
 
             <p>
-              My work bridges cutting-edge machine learning with practical
-              business applications—from automating venture capital due
+              My personal work bridges machine learning with practical
+              business applications from automating venture capital due
               diligence to optimizing data flows in capital markets. At
               <a href="https://permanence.ai/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline"> Permanence AI</a>, I work on automating code maintenance for software
               engineering teams by producing remediations for SCA and SAST
-              vulnerabilities.
+              vulnerabilities. This includes integrating with static and dependency-based security scanners to automatically generate secure, review-ready code fixes that reduce vulnerability resolution time and improve codebase reliability.
             </p>
           </div>
         </div>
