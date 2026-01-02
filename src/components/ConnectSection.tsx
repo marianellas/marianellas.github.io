@@ -11,12 +11,12 @@ const socialLinks: SocialLink[] = [
   {
     icon: <Linkedin className="w-5 h-5" />,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/marianellasalinas",
+    href: "https://www.linkedin.com/in/marianella-salinas-b41699203/",
   },
   {
     icon: <Github className="w-5 h-5" />,
     label: "GitHub",
-    href: "https://github.com/marianellasalinas",
+    href: "https://github.com/marianellas",
   },
   {
     icon: <FileText className="w-5 h-5" />,
