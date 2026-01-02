@@ -28,13 +28,13 @@ const AboutSection = () => {
           <div className="w-full md:w-2/3 space-y-5 text-foreground/90 font-sans leading-relaxed">
             <p>
               I am a Machine Learning Software Engineer at{" "}
-              <span className="text-primary font-medium">Permanence AI</span>,
+              <a href="https://permanence.ai/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Permanence AI</a>,
               where I focus on reliable code generation and large language model
               fine-tuning for secure software engineering workflows. Before
               joining Permanence, I was a Venture Capital Summer Associate at{" "}
-              <span className="text-primary font-medium">
+              <a href="https://ctinnovations.com/investors/venture-portfolio/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">
                 Connecticut Innovations
-              </span>
+              </a>
               , where I evaluated and advised on AI-driven products across
               FinTech, ClimateTech, and Bioscience.
             </p>
@@ -58,9 +58,9 @@ const AboutSection = () => {
                 University of Connecticut
               </span>{" "}
               in 2024. During my undergraduate years, I served as Managing
-              Director of Hillside Ventures, UConn's student-run $1M venture
+              Director of <a href="https://hillsideventures.uconn.edu/venture-fund/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Hillside Ventures</a>, UConn's student-run $1M venture
               capital fund, and was a Principal Investigator on an IRB-approved
-              study for the BOLD Scholars Program focused on improving equity
+              study for the <a href="https://ugradresearch.uconn.edu/bold/scholars/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">BOLD Scholars Program</a> focused on improving equity
               and inclusion in STEM education.
             </p>
 
@@ -68,7 +68,7 @@ const AboutSection = () => {
               My work bridges cutting-edge machine learning with practical
               business applications—from automating venture capital due
               diligence to optimizing data flows in capital markets. At
-              Permanence AI, I work on automating code maintenance for software
+              <a href="https://permanence.ai/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline"> Permanence AI</a>, I work on automating code maintenance for software
               engineering teams by producing remediations for SCA and SAST
               vulnerabilities.
             </p>
